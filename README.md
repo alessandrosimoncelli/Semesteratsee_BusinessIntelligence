@@ -1,11 +1,6 @@
 # Semesteratsee_BusinessIntelligence
 Power BI model built on a live Azure MySQL source that catches a misleading YoY conversion trend hiding a top-funnel abandonment crisis, includes weighted scoring models, star schema, and TMDL-versioned semantic model.
 
-**Semester at Sea - Leads Funnel & Enrollment Intelligence**
-
-A full Power BI build against a live Azure MySQL database: raw operational data
-for a 630-capacity study-abroad program turned into a model that catches a
-misleading trend before it reaches a board meeting.
 
 ---
 
