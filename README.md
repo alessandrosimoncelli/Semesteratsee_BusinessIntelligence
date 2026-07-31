@@ -194,3 +194,7 @@ in was real.
 ## Stack
 
 Power BI Desktop, Power Query (M), DAX, TMDL, Azure Database for MySQL
+
+## Author
+
+Alessandro Simoncelli
